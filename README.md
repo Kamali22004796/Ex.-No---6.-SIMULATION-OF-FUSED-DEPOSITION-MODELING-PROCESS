@@ -22,37 +22,37 @@
 
 ## Output:
 
-##BASE
+BASE
 
 The base or print bed is the flat surface on which the object is built during the 3D printing process. It is usually a heated platform that provides stability and adhesion for the initial layers of the print.
 
 ![image](https://github.com/Kamali22004796/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120567837/d35d6c5d-876e-480a-9198-ee6bd31a11f3)
 
-##EXTRUDER
+EXTRUDER
 
 Extruder is a component that is responsible for heating,melting and depositing the filament in the print bed or base.It consist of motor,heating element and nozzle. The motor drives a gear or a wheel that grips the filament and pushes it into a heating chamber.Heated element is extruded through nozzle
 
 ![image](https://github.com/Kamali22004796/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120567837/ab257b79-db6a-4a4f-b254-49949226bba2)
 
-##MATERIAL SPOOL
+MATERIAL SPOOL
 
 Material spool is the cylindrical holder or container that holds the filament used for printing. The filament, which is typically in the form of a long, thin thread, is wound around the spool.
 
 ![image](https://github.com/Kamali22004796/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120567837/77c1e028-f350-4b47-b7f8-87349032168f)
 
-##FILAMENT
+FILAMENT
 
 Filament is a long, thin strand of thermoplastic material that is fed into the 3D printer's extruder, melted, and deposited layer by layer to create a three-dimensional object.PLA (Polylactic Acid),ABS (Acrylonitrile Butadiene Styrene),PETG (Polyethylene Terephthalate Glycol) are some of the commonly used filament material
 
 ![image](https://github.com/Kamali22004796/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120567837/39422bbe-6d3b-43fc-a6d2-312bad472c40)
 
-##START PROCESS
+START PROCESS
 
 G-codes and M-codes given to the machine through user interface.As per G-codes and M-codes ,the 3d printer starts to print the 3d model.The print bed is heated and ensures adhesion of base layer of the model.Then the filament from spool is pulled into extruder,where heating element heats filament and deposit it on the print bed.
 
 ![image](https://github.com/Kamali22004796/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120567837/d4b6c49a-3388-4456-8afe-6fd7fbd23fdf)
 
-##STOP PROCESS
+STOP PROCESS
 
 After completion of printing,post processing is carried out to refine and enhance the final object.Once the print is complete, carefully remove the printed object from the build plate.The support material need to be removed from the model.
 
