@@ -22,8 +22,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/Kamali22004796/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120567837/f0f551bd-672b-4db7-ae9a-3cf564ead310)
+
+
+### Name: KAMALI.E
+### Register Number:212222110015
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
